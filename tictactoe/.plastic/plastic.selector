@@ -1,0 +1,4 @@
+repository "My project (1)@wechat_os_qy08l8ue4g1qg3bldevfbdk0i@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     
